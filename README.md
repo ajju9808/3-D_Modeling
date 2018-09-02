@@ -1,2 +1,2 @@
 # 3-D_Modeling
-Conversion of 3D data To 3D
+Conversion of images of vedio into a 3D model.
